@@ -1,4 +1,4 @@
-# enas-pytorch
+# ENAS CIFAR-10 Implementation in PyTorch
 "Efficient Neural Architecture Search via Parameter Sharing" implementation in PyTorch
 
 Includes code for CIFAR-10 image classification task.
