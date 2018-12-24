@@ -7,6 +7,10 @@ Paper: https://arxiv.org/abs/1802.03268
 
 Authors: Hieu Pham*, Melody Y. Guan*, Barret Zoph, Quoc V. Le, Jeff Dean
 
+## Prerequisites
+
+- PyTorch 0.4.0+
+
 ## CIFAR-10
 
 To run the ENAS experiments on the _micro search space_, please use:

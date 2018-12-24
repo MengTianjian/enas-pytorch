@@ -51,6 +51,7 @@ class Controller(torch.nn.Module):
 
     def run_sampler(self, prev_c=None, prev_h=None, use_bias=False):
         if prev_c is None:
+            # TODO: multi-layer LSTM
             #prev_c = [torch.zeros(1, self.lstm_size).cuda() for _ in range(self.lstm_num_layers)]
             #prev_h = [torch.zeros(1, self.lstm_size).cuda() for _ in range(self.lstm_num_layers)]
             prev_c = torch.zeros(1, self.lstm_size).cuda()
