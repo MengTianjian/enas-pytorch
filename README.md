@@ -17,9 +17,9 @@ python train_search.py
 ## TODO
 
 - [x] Search in micro search space in CIFAR-10
-- [] Train micro architecture from scratch in CIFAR-10
-- [] Search in macro search space in CIFAR-10
-- [] Train macro architecture from scratch in CIFAR-10
+- [ ] Train micro architecture from scratch in CIFAR-10
+- [ ] Search in macro search space in CIFAR-10
+- [ ] Train macro architecture from scratch in CIFAR-10
 
 ## Acknowledgements
 
