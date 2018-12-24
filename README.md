@@ -25,6 +25,6 @@ python train_search.py
 
 This implementation is based on
 
-- [enas](https://github.com/melodyguan/enas/)
-- [ENAS-pytorch](https://github.com/carpedm20/ENAS-pytorch/)
-- [darts](https://github.com/quark0/darts/)
+- [melodyguan/enas](https://github.com/melodyguan/enas/)
+- [carpedm20/ENAS-pytorch](https://github.com/carpedm20/ENAS-pytorch/)
+- [quark0/darts](https://github.com/quark0/darts/)
